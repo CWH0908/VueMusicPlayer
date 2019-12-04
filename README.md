@@ -1,3 +1,8 @@
+Vue音乐播放器的制作日记已贴到个人博客里
+https://blog.csdn.net/CWH0908/article/details/102569687
+
+
+
 # my_music_player
 
 > A Vue.js project
