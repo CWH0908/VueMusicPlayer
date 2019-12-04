@@ -1,0 +1,19 @@
+@import './base.less';
+@import './variable.less';
+
+
+.myRouterClass {
+  border-bottom: 4px solid @background-color;
+  color: @background-color;
+  transition: all .5s;
+  animation:activeClass .5s;
+}
+
+@keyframes activeClass
+{
+	0% {border-bottom-width: 0;}
+  25%{border-bottom-width: 1px;}
+  50%{border-bottom-width: 2px;}
+  75%{border-bottom-width: 3px;}
+  100%{border-bottom-width: 4px;}
+}
