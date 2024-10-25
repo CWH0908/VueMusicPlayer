@@ -18,10 +18,10 @@
     "element-ui": "^2.12.0",
     "express": "^4.17.1",
     "jsonp": "^0.2.1",
-    "lyric-parser": "D:\\webs\\��ѧweb\\webʵս��Ŀ\\Vue���ֲ�����>\"D:\\\\node.exe\"  \"D:\\\\node_modules\\npm\\bin\\npm-cli.js\" config get save-prefix \r\n^1.0.1",
+    "lyric-parser": "D:\webs\��ѧweb\webʵս��Ŀ\Vue���ֲ�����>\"D:\\node.exe\"  \"D:\\node_modules\npm\bin\npm-cli.js\" config get save-prefix \r\n^1.0.1",
     "mint-ui": "^2.2.13",
-    "vant": "D:\\webs\\��ѧweb\\webʵս��Ŀ\\Vue���ֲ�����>\"D:\\\\node.exe\"  \"D:\\\\node_modules\\npm\\bin\\npm-cli.js\" config get save-prefix \r\n^2.2.14",
-    "vue": "^2.5.2",
+    "vant": "D:\webs\��ѧweb\webʵս��Ŀ\Vue���ֲ�����>\"D:\\node.exe\"  \"D:\\node_modules\npm\bin\npm-cli.js\" config get save-prefix \r\n^2.2.14",
+    "vue": "^3.0.0",
     "vue-lazyload": "^1.3.3",
     "vue-router": "^3.1.1",
     "vuex": "^3.1.1"
